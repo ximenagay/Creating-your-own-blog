@@ -3,18 +3,27 @@ html {
     width: 100%;
 }
 body {
-background-color: #e7c98d;
+    background-color: #fff1da;
+}
+nav{
+    background-color: #f5c972;
 }
 h1 {
-    color: #36291c;
+    color: #281f03;
+    width:100%;
+    margin: auto;
 }
 p {
-    color: 	#543c30;
+    color: 	#000739;
+    font-family: 'Roboto', sans-serif;
+    padding: 20px;
 }
 h2 {
-    color: #51400f; 
+    color: #b74900; 
+    margin-top: 20px;
 }
 h3 {
-    color: 	#7f2f2f; 
+    color: 	#b74900;
+    margin-top: 20px; 
 }
 
