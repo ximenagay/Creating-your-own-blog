@@ -8,22 +8,49 @@ body {
 nav{
     background-color: #f5c972;
 }
+button {
+    color: 	#b74900;
+    font-size: medium;
+    font-family: 'Goudy Old Style', sans-serif;
+}
+main{
+    padding: 5%;
+}
+main p{
+    margin-top: 20px;
+    margin-bottom: 20px
+}
 h1 {
+    font-family: 'Goudy Old Style', cursive;
+    font-style: bold; 
+    font-size: xx-large;
     color: #281f03;
     width:100%;
     margin: auto;
 }
 p {
     color: 	#000739;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Perpetua', sans-serif;
+    font-style: italic; 
+    font-size: x-large;
     padding: 20px;
 }
 h2 {
     color: #b74900; 
+    font-family: 'Goudy Old Style', sans-serif;
+    font-size: xx-large;
     margin-top: 20px;
 }
 h3 {
     color: 	#b74900;
+    font-family: 'Goudy Old Style', sans-serif;
+    font-size: xx-large; 
     margin-top: 20px; 
 }
-
+img {
+    max-width: 80%;
+    height: auto;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
