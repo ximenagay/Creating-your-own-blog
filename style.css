@@ -5,24 +5,13 @@ html {
 body {
     background-color: #fff1da;
 }
-nav{
-    background-color: #f5c972;
-    height: 90px;
-    display: flex;
-    align-items: center;
-}
+
 button {
     color: 	#b74900;
     font-size: medium;
     font-family: 'Goudy Old Style', sans-serif;
 }
-main{
-    padding: 5%;
-}
-main p{
-    margin-top: 20px;
-    margin-bottom: 20px
-}
+
 h1 {
   font-family: "Goudy Old Style", cursive;
   font-style: bold;
@@ -54,14 +43,4 @@ h3 {
     display: block;
     margin: top;
 }
-div {
-    display: block;
-    display: flex;
-    width: 100%;
-    justify-content: top;
-    margin: 40px;
-    border: 1px;
-    position: relative;
-    top: -100px;
-    margin-bottom: 0px;
-}
+
