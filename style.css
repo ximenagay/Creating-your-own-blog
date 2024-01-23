@@ -1,67 +1,44 @@
 html {
-    height: 100%;
-    width: 100%;
+  height: 100%;
+  width: 100%;
 }
 body {
-    background-color: #fff1da;
+  background-color: #e2d397;
 }
-nav{
-    background-color: #f5c972;
-    height: 90px;
-    display: flex;
-    align-items: center;
-}
+
 button {
-    color: 	#b74900;
-    font-size: medium;
-    font-family: 'Goudy Old Style', sans-serif;
+  color: #0fc3e8;
+  font-size: medium;
+  font-family: "Goudy Old Style", sans-serif;
 }
-main{
-    padding: 5%;
-}
-main p{
-    margin-top: 20px;
-    margin-bottom: 20px
-}
+
 h1 {
-    font-family: 'Goudy Old Style', cursive;
-    font-style: bold; 
-    font-size: xx-large;
-    color: #281f03;
-    width:100%;
-    margin-top: -30px;
+  font-family: "Goudy Old Style", cursive;
+  font-style: bold;
+  font-size: xx-large;
+  color: #f07e13;
+  width: 100%;
+  margin-top: -30px;
 }
 p {
-    color: 	#000739;
-    font-family: 'Perpetua', sans-serif;
-    font-style: italic; 
-    font-size: x-large;
-    padding: 20px;
+  color: #481800;
+  font-family: "Perpetua", sans-serif;
+  font-style: italic;
+  font-size: x-large;
+  padding: 20px;
 }
 h2 {
-    color: #b74900; 
-    font-family: 'Goudy Old Style', sans-serif;
-    font-size: xx-large;
-    margin-top: 20px;
+  color: #f07e13;
+  font-family: "Goudy Old Style", sans-serif;
+  font-size: xx-large;
+  margin-top: 20px;
 }
 h3 {
-    color: 	#b74900;
-    font-family: 'Goudy Old Style', sans-serif;
-    font-size: xx-large; 
-    margin-top: 20px; 
+  color: #f07e13;
+  font-family: "Goudy Old Style", sans-serif;
+  font-size: xx-large;
+  margin-top: 20px;
 }
 .banner {
-    display: block;
-    margin: top;
-}
-div {
-    display: block;
-    display: flex;
-    width: 100%;
-    justify-content: top;
-    margin: 40px;
-    border: 1px;
-    position: relative;
-    top: -100px;
-    margin-bottom: 0px;
+  display: block;
 }
