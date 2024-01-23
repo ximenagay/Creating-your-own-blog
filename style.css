@@ -29,7 +29,7 @@ h1 {
     font-size: xx-large;
     color: #281f03;
     width:100%;
-    margin: auto;
+    margin-top: -30px;
 }
 p {
     color: 	#000739;
@@ -55,8 +55,13 @@ h3 {
     margin: top;
 }
 div {
+    display: block;
     display: flex;
+    width: 100%;
     justify-content: top;
-    margin: 50px;
-    border: 10px;
+    margin: 40px;
+    border: 1px;
+    position: relative;
+    top: -100px;
+    margin-bottom: 0px;
 }
