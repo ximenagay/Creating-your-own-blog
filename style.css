@@ -5,12 +5,7 @@ html {
 body {
     background-color: #fff1da;
 }
-nav{
-    background-color: #f5c972;
-    height: 90px;
-    display: flex;
-    align-items: center;
-}
+
 button {
     color: 	#b74900;
     font-size: medium;
