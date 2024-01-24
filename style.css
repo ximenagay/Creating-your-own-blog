@@ -13,10 +13,10 @@ button {
 }
 
 h1 {
+  color: #f07e13;  
   font-family: "Goudy Old Style", cursive;
   font-style: bold;
   font-size: xx-large;
-  color: #f07e13;
   width: 100%;
   margin-top: -30px;
 }
